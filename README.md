@@ -1,2 +1,1 @@
-# github-pages-repo.io
-Repo for GitHub Poetry Project (IDEA 120)
+repository for GitHub Poetry Project

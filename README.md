@@ -1,1 +1,1 @@
-repository for GitHub Poetry Project
+*Repository for GitHub Poetry Project*

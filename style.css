@@ -28,6 +28,26 @@ p3  {
     color: Black;
 }
 
+image-with-spacing {
+    width:50%;
+    max-width:100%;
+    height: auto;
+    margin-right: 10px; /* Adjust the value to set the desired spacing*/
+}
+
+image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    height: 100vh;
+}
+
+grid-item {
+    width: 550%;
+    height: auto;
+    max-width: 100%;
+}
+
 
 
 
